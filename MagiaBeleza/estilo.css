@@ -1,0 +1,313 @@
+*{
+    margin: 0%;
+    padding: 0;
+    list-style-type: none,
+    text text-decoration none,
+}
+
+.header{
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: #ff69b4;
+}
+
+.inner_header{
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+   }
+
+.logo_container{
+    width: 100%;
+    height: 100%;
+    display: table;
+    float: left;
+    
+    
+}
+
+.logo_container h1{
+    color: black;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    
+    font-family: cursive;
+    font-size: 32px;    
+    font-weight: 200px;
+    padding: 0px 100px;
+}
+
+.logo_container h1 span{
+    font-weight: 800;
+}
+
+.navegação{
+    float: right;
+    height: 100%;
+    
+    
+}
+
+.navegação a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 40px;
+    text-decoration: none;
+    
+}
+.navegação a li1{
+    display: table-cell;
+    text-shadow: 0.1em 0.1em 0.1em #ff007f;
+    vertical-align: middle;
+    height: 100%;
+    color: black;
+    font-weight: 800;
+    font-size: 20px;
+    font-family: cursive;
+    
+}
+.navegação a li2{
+    display: table-cell;
+    text-shadow: 0.1em 0.1em 0.1em #ff007f;
+    vertical-align: middle;
+    height: 100%;
+    color: black;
+    font-weight: 800;
+    font-size: 20px;
+    font-family: cursive;
+    
+}
+.navegação a li3{
+    display: table-cell;
+    text-shadow: 0.1em 0.1em 0.1em #ff007f;
+    vertical-align: middle;
+    height: 100%;
+    color: black;
+    font-weight: 800;
+    font-size: 20px;
+   font-family: cursive;
+   
+}
+.navegação a li4{
+    display: table-cell;
+    text-shadow: 0.1em 0.1em 0.1em #ff007f;
+    vertical-align: middle;
+    height: 100%;
+    color: black;
+    font-weight: 800;
+    font-size: 20px;
+    font-family: cursive;
+   
+}
+.imagem{
+    float: left;
+    width: 30%;
+    padding: 30px 270px;
+    margin-top: 1em;
+    margin-left: -1em;
+
+}
+.rodape{
+    width: 1000px;
+    height: 150px;
+    margin-top: 2em;
+    display: block;
+    background-color: #ff69b4;
+    float: left;
+    margin-left: -3.5em;
+    
+}
+.itensrodape{
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+.logorodape{
+    width: 60px;
+    height: 40px;
+    float: left;
+    padding: 10pxs;
+}
+.logorodape h2{
+    color: black;
+    height: 50%;
+    margin-left: 3em;
+    margin-top: -1.2em;
+    font-family: sans-serif;
+    font-size: 25px;    
+    font-weight: 100px;
+    padding: 0px 20px;
+}
+.gmail{
+    float: left;
+   padding: 10px;
+
+}
+.sobre{
+    width: 1250px;
+    height: 500px;
+    margin-top: 40px;
+    margin-left: 50px;
+    background-color: #ff69b4;
+}
+.sobre h2{
+    font-family: cursive;
+    font-size: 50px;
+    text-shadow: 0.1em 0.1em 0.2em #ff007f;
+    padding: 35px;
+    font-weight: 200px;
+}
+.sobre h3{
+    margin-left: 2em;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+.fotomae{
+    margin-left: 3em;
+    margin-top: 0.7em;
+}
+.sobre h4{
+    margin-left: 14em;
+    margin-top: -10em;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+.rodapedosobre{
+    display: table-column;
+    width: 1270px;
+    height: 125px;
+    margin-top: 12.5em;
+    background-color: #ff69b4;
+    float: left;
+    margin-left: -3.5em;
+}
+.logorodapesobre h5{
+    font-family: sans-serif; 
+    font-size: 22px;
+    margin-left: 4em;
+    margin-top: -1.5em;
+    
+}
+.produtos{
+    width: 1250px;
+    height: 600px;
+    margin-top: 40px;
+    margin-left: 50px;
+    background-color: #ff69b4;
+}
+.produtos h2{
+    font-family: cursive;
+    font-size: 50px;
+    text-shadow: 0.1em 0.1em 0.2em #ff007f;
+    padding: 35px;
+    font-weight: 200px;
+}
+.perfume{ 
+    margin-left: 10em;
+    margin-top: 12em;
+}
+.kaiak{
+    margin-top: -27em;
+    margin-left: 14em;
+}
+.hidratante{
+    margin-top: -16em;
+    margin-left: 28em;
+}
+.humor{
+    margin-top: -2em;
+    margin-left: 36em;
+}
+.seila{
+    margin-top: -28em;
+    margin-left: 45em;
+}
+.seila2{
+    margin-left: 55em;
+    margin-top: -2em;
+}
+.rodapedoprodutos{
+    display: table-column;
+    width: 1280px;
+    height: 125px;
+    margin-top: 4em;
+    background-color: #ff69b4;
+    float: left;
+    margin-left: -0.8em;
+}
+.logorodapeprodutos h5{
+    font-family: sans-serif; 
+    font-size: 22px;
+    margin-left: 4em;
+    margin-top: -1.5em;
+    
+}
+.contato{
+    width: 1250px;
+    height: 600px;
+    margin-top: 40px;
+    margin-left: 50px;
+    background-color: #ff69b4;
+}
+.rodapecontato{
+    display: table-column;
+    width: 1270px;
+    height: 125px;
+    margin-top: 2.5em;
+    background-color: #ff69b4;
+    float: left;
+    margin-left: 2.5em;
+}
+.contato h2{
+    font-family: cursive;
+    font-size: 50px;
+    text-shadow: 0.1em 0.1em 0.2em #ff007f;
+    padding: 35px;
+    font-weight: 200px;
+}
+.logorodapecontatos h5{
+    font-family: sans-serif; 
+    font-size: 22px;
+    margin-left: 4em;
+    margin-top: -1.5em;
+    
+}
+.fotorodape{
+    margin-left: 53em;
+    margin-top: -5em;
+}
+.fotorodapeproduto{
+    margin-left: 67em;
+    margin-top: -7em;
+}
+.fotorodapecontato{
+    margin-left: 67em;
+    margin-top: -7em;
+}
+.fotoinsta{
+    margin-left: 47em;
+    margin-top: -5.8em;
+}
+.fotoinstapro{
+    margin-left: -5.8em;
+    margin-top: -5.8em;
+}
+.fotoinstacontato{
+    margin-left: -5.8em;
+    margin-top: -5.8em;
+}
+.fotorodapesob{
+    margin-left: 67em;
+    margin-top: -7em;
+}
+.fotoinstasob{
+    margin-left: 61.1em;
+    margin-top: -5.8em;
+}
